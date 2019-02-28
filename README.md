@@ -1,2 +1,5 @@
-# cs61a_2018
-cs61a python course at UC Berkeley in 2018
+# CS 61A: Structure and Interpretation of Computer Programs
+
+By John DeNero
+
+UC Berkeley, Spring 2018
