@@ -5,7 +5,7 @@ increment = lambda k: k+1
 
 def product(n, term):
 	'''
-	Return the product of the first n terms in a sequence
+	Return the product of the first n terms in a sequence.
 	'''
 	total, k = 1, 1
 	while k <= n:
@@ -14,7 +14,7 @@ def product(n, term):
 	
 def factorial(n):
 	'''
-	Return n factorial for n >= 0 by calling product
+	Return n factorial for n >= 0 by calling product.
 	'''
 	if n == 0:
 		return 1
